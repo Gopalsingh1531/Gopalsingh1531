@@ -20,6 +20,7 @@ on Data Mining/Wrangling, Data Preprocessing, Data Analysis, Machine Learning, D
 </div>
 
 Languages and Tools: 
+    <hr>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" />
     </a>
