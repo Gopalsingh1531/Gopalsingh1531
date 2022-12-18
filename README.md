@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Gopal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopal-singh-4058961b5/)](https://www.linkedin.com/in/gopal-singh-4058961b5/)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Gopal-yellow)](https://stackoverflow.com/users/16925779/gopal-singh)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Gopal-blue)](https://www.kaggle.com/gopalsingh1203)
+[![Linkedin Badge](https://img.shields.io/badge/-GopalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopal-singh-4058961b5/)](https://www.linkedin.com/in/gopal-singh-4058961b5/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-GopalSingh-yellow)](https://stackoverflow.com/users/16925779/gopal-singh)
+[![Kaggle](https://img.shields.io/badge/Kaggle-GopalSingh1203-blue)](https://www.kaggle.com/gopalsingh1203)
 
 Entry-Level Data Scientist with Web Development Skills who is keen to contribute to a cause. I am a Young energetic, and geeky individual whose desire 
 to learn is endless. I have a wide range of skills that include back-end development using open source technologies (PHP, Python), 
