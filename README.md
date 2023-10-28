@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DevelopersDowntown-red)]([https://www.youtube.com/channel/UCCzRABbWO9asDvkQcfJfrqQ])
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DevelopersDowntown-red)](https://www.youtube.com/channel/UCCzRABbWO9asDvkQcfJfrqQ)
 [![Linkedin Badge](https://img.shields.io/badge/-GopalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopal-singh-4058961b5/)](https://www.linkedin.com/in/gopal-singh-4058961b5/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-GopalSingh-yellow)](https://stackoverflow.com/users/16925779/gopal-singh)
 [![Kaggle](https://img.shields.io/badge/Kaggle-GopalSingh1203-blue)](https://www.kaggle.com/gopalsingh1203)
