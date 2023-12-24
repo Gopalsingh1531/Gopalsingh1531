@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Hi 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DevelopersDowntown-red)](https://www.youtube.com/channel/UCCzRABbWO9asDvkQcfJfrqQ)
 [![Linkedin Badge](https://img.shields.io/badge/-GopalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopal-singh-4058961b5/)](https://www.linkedin.com/in/gopal-singh-4058961b5/)
@@ -7,13 +7,12 @@
 
 Entry-Level Data Scientist with Web Development Skills who is keen to contribute to a cause. I am a Young energetic, and geeky individual whose desire 
 to learn is endless. I have a wide range of skills that include back-end development using open source technologies (PHP, Python), 
-design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, Bootstrap),database(Mysql), Git/Github, hands on practice
-on Data Mining/Wrangling, Data Preprocessing, Data Analysis, Machine Learning, Deep Learning, Computer Vision using python passionately.
+design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, Bootstrap), database(Mysql), Git/Github, hands on practice
+on Data Mining/Wrangling, Data Preprocessing, Data Analysis, Machine Learning, Deep Learning, NLP and Computer Vision using python passionately.
 
-<div>
-  <h4>Visitor's Count</h4>
-  ![Visitor Count](https://profile-counter.glitch.me/Gopalsingh1531/count.svg)
-</div>
+<h4>Visitor's Count</h4>
+
+![Visitor Count](https://profile-counter.glitch.me/Gopalsingh1531/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
