@@ -10,7 +10,10 @@ to learn is endless. I have a wide range of skills that include back-end develop
 design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, Bootstrap),database(Mysql), Git/Github, hands on practice
 on Data Mining/Wrangling, Data Preprocessing, Data Analysis, Machine Learning, Deep Learning, Computer Vision using python passionately.
 
-![Visitor Count](https://profile-counter.glitch.me/Gopalsingh1531/count.svg)
+<div>
+  <h4>Visitor's Count</h4>
+  ![Visitor Count](https://profile-counter.glitch.me/Gopalsingh1531/count.svg)
+</div>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
